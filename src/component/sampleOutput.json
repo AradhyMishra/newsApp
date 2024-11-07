@@ -1,0 +1,123 @@
+{
+    "status": "ok",
+    "totalResults": 9,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Scottish Premiership: Build up to three matches in top-flight",
+            "description": "Listen to Sportsound and follow live text updates of Saturday's Scottish football, including three Premiership games.",
+            "url": "http://www.bbc.co.uk/sport/football/live/c98y83w42xxt",
+            "urlToImage": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/sport/images/metadata/poster-1024x576.png",
+            "publishedAt": "2024-10-26T13:22:13.9206613Z",
+            "content": "Dundee v St Johnstone (15:00)\r\nDundee: Carson, Astley, C Robertson, Koumetio, Ingram, Larkeche, Sylla, F Robertson, Cameron, Main, Murray.\r\nSubstitutes: McCracken, Sharp, Tiffoney, Mulligan, Adewumi,… [+243 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Jackson Thompson",
+            "title": "Steve Garvey calls for prevention of trans inclusion in women's sports, defends forfeits that protest it",
+            "description": "Former Dodgers World Series champion Steve Garvey said he opposes transgender athletes in women's sports and is calling on national leadership to set clear definitions.",
+            "url": "https://www.foxnews.com/sports/steve-garvey-calls-prevention-trans-inclusion-womens-sports-defends-forfeits-protest",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/10/garvey-trans-athletes.jpg",
+            "publishedAt": "2024-10-26T13:11:50Z",
+            "content": "Join Fox News for access to this content\r\nYou have reached your maximum number of articles. Log in or create an account FREE of charge to continue reading.\r\nBy entering your email and pushing continu… [+6977 chars]"
+        },
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "sport",
+            "title": "Muhammad Ali's ex-wife lands in Kabul to open stadium amid Taliban's sports ban for women",
+            "description": "A former wife of legendary US boxer Muhammad Ali arrived in the Afghan capital, a Taliban government official said Friday, to reportedly open a stadium in a country where women are barred from sports.",
+            "url": "https://www.news24.com/sport/othersport/international/muhammad-alis-ex-wife-lands-in-kabul-to-open-stadium-amid-talibans-sports-ban-for-women-20241026",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/2520/0479d7942e2546e0a69fa5538b65d9d3.jpg",
+            "publishedAt": "2024-10-26T12:59:22",
+            "content": "A former wife of legendary US boxer Muhammad Ali arrived in the Afghan capital, a Taliban government official said Friday, to reportedly open a stadium in a country where women are barred from sports."
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": null,
+            "title": "Shohei Ohtani: 'I came to the U.S. precisely to win a World Series'",
+            "description": "Dodgers star Shohei Ohtani sat down with FOX Sports' Kevin Burkhardt to discuss his goals, the pressure of being an international icon, and more.",
+            "url": "https://www.foxsports.com/stories/mlb/shohei-ohtani-i-came-u-s-precisely-win-world-series",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2024/10/1408/814/ohtani-wide-102524.jpg?ve=1&tl=1",
+            "publishedAt": "2024-10-26T00:41:30Z",
+            "content": "Shohei Ohtani has not only had an historic career, he's had a particularly historic season, becoming the first player to steal at least 50 bases and slug at least 50 home runs in the same year.\r\nNow,… [+1291 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": null,
+            "title": "Austin American-Statesman Subscription Offers, Specials, and Discounts",
+            "description": "Huge Savings: Subscribe today to enjoy sports, entertainment, life, money, tech, and travel news along with videos, apps, and more.",
+            "url": "https://www.statesman.com/story/news/politics/state/2024/10/25/donald-trump-rally-austin-texas-ted-cruz-press-conference-border-policies-immigration/75824410007/",
+            "urlToImage": "https://staticassets.gannettdigital.com/gci-static-assets/assets/global/checkout/meta-generic.png",
+            "publishedAt": "2024-10-26T00:28:44+00:00",
+            "content": "Huge Savings: Subscribe today to enjoy sports, entertainment, life, money, tech, and travel news along with videos, apps, and more."
+        },
+        {
+            "source": {
+                "id": "talksport",
+                "name": "TalkSport"
+            },
+            "author": "Liam Hoofe",
+            "title": "Best betting sites UK | Top betting site offers for October 2024...",
+            "description": "Sports bettors in the UK are spoiled for choice among the best betting sites: If you want in-depth football betting markets, there is a bookmaker for you; if you want to bet on esports or TV events…",
+            "url": "https://talksport.com/betting/1760032/best-betting-sites-uk/",
+            "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2024/08/talksport-best-betting-sites-uk-op.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+            "publishedAt": "2024-10-04T08:45:00Z",
+            "content": "Sports bettors in the UK are spoiled for choice among the best betting sites: If you want in-depth football betting markets, there is a bookmaker for you; if you want to bet on esports or TV events, … [+17381 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": "New Micah Parsons Show ",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/490566-the-edge-w-micah-parsons-ep-11-vod",
+            "urlToImage": null,
+            "publishedAt": "2023-11-27T20:37:24.6381564Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": " Mikal Bridges Interview ",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/491103-taylor-rooks-x-mikal-bridges-vod",
+            "urlToImage": null,
+            "publishedAt": "2023-11-27T20:37:24.3882176Z",
+            "content": "Nets star sits down with Taylor Rooks for exclusive convo."
+        },
+        {
+            "source": {
+                "id": "nrk",
+                "name": "NRK"
+            },
+            "author": "NRK",
+            "title": "De siste sportsnyhetene fra NRK",
+            "description": "Her får du de siste sportsnyhetene fra NRK.",
+            "url": "https://www.nrk.no/sport/sportsnyheter-1.14660227#1.17099503.1.17099503",
+            "urlToImage": "https://gfx.nrk.no/7kT5zGoE2E-GnUKLojH1PQ0I1Nze4Ypu8lxM-oBjubQw.jpg",
+            "publishedAt": "2019-08-14T09:09:42Z",
+            "content": "Vi ønsker selvfølgelig alltid at norske spillere, som har gått gradene på u-landslagene, har lyst til å fortsette reisen med å spille med det norske flagget på brystet, sier toppfotballsjef Siri Nord… [+1301 chars]"
+        }
+    ]
+}
